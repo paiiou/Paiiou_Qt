@@ -1,2 +1,3 @@
 # Paiiou_Qt
-Quelques applications Qt5
+Quelques applications purement Qt5 :
+q5 Edit : un éditeur de texte léger, 
